@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://github.com/mariam-diab/mariam-diab/assets/95102488/3a35678d-6ca6-4437-8a97-c16c1a34b6d4](https://drive.google.com/file/d/1gpo0WmMqoR0BUFWkCC7msfmIeRQyi50l/view?usp=sharing)"/>
+  <img height="150" src="https://github.com/mariam-diab/mariam-diab/assets/95102488/7de36600-d052-4e13-8003-bce30909cfd6"/>
 </div>
 
 ###
@@ -7,9 +7,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/mariam-diab02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mariam.diab@ejust.edu.eg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -30,7 +27,8 @@
 
 ###
 
-<p align="left">- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation.</p>
+<p align="left">- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation 
+.</p>
 
 ###
 
