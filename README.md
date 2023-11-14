@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Hi , I'm Mariam Diab</h1>
+<h1 align="center">Hello, I'm Mariam Diab!</h1>
 <h3 align="center">Passionate Software Engineering Student</h3>
 
 ###
