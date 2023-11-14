@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mariam-diab02/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -25,7 +27,8 @@
 
 ###
 
-<p align="left">- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation.</p>
+<p align="left">- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation 
+.</p>
 
 ###
 
