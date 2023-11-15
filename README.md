@@ -6,13 +6,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mariam-diab.mariam-diab"  />
 </div>
 
-<h2 align="center">Welcome to My Profile! 👩‍💻</h2>
+<h2 align="center">Welcome to My Profile!</h2>
 
-<h3>About Me</h3>
+<h3>👩‍💻 About Me</h3>
 
 <p>- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship opportunity to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation.</p>
 
-<h3>Language and tools</h3>
+<h3>🛠 Language and tools</h3>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
