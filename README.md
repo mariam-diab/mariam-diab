@@ -13,13 +13,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariam-diab.mariam-diab&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariam-diab.mariam-diab"  />
 </div>
 
 ###
 
-<h1 align="center">Hello, I'm Mariam Diab!</h1>
-<h3 align="center">Passionate Software Engineering Student</h3>
+<h2 align="center">Hello, I'm a Passionate Software Engineering Student!</h2>
 
 ###
 
@@ -27,8 +26,7 @@
 
 ###
 
-<p align="left">- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation 
-.</p>
+<p align="left">- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation.</p>
 
 ###
 
@@ -63,13 +61,5 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<!--
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariam-diab&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
->
 
 ###
