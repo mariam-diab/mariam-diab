@@ -9,8 +9,11 @@
 <h2 align="center">Welcome to My Profile!</h2>
 
 <h3>👩‍💻 About Me</h3>
+- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>
+- Seeking an internship opportunity to apply my software skills and contribute to real-world projects.<br>
+- ⚡ In my free time, I enjoy working towards environmental conservation.<br><br>
 
-<p>- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>- Seeking an internship opportunity to apply my software skills and contribute to real-world projects.<br>- ⚡ In my free time, I enjoy working towards environmental conservation.</p>
+<p>You can reach me at <strong><a href="mailto:mariam.diab@ejust.edu.eg" style="color: blue;">mariam.diab@ejust.edu.eg</a></strong></p>
 
 <h3>🛠 Language and tools</h3>
 
