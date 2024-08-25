@@ -9,7 +9,7 @@
 <h2 align="center">Welcome to My Profile!</h2>
 
 <h3>👩‍💻 About Me</h3>
-- Currently pursuing the Meta Back-End Developer Professional Certificate.<br>
+- Successfully pursued the Meta Back-End Developer Professional Certificate.<br>
 - Seeking an internship opportunity to apply my software skills and contribute to real-world projects.<br>
 - ⚡ In my free time, I enjoy working towards environmental conservation.<br><br>
 
