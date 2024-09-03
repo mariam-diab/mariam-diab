@@ -6,11 +6,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mariam-diab.mariam-diab"  />
 </div>
 
-<h2 align="center">Welcome to My Profile!</h2>
+<h2 align="center">Welcome!</h2>
 
 <h3>👩‍💻 About Me</h3>
-- Successfully pursued the Meta Back-End Developer Professional Certificate.<br>
-- Seeking an internship opportunity to apply my software skills and contribute to real-world projects.<br>
+- Proficient in backend development, with experience in Python, Django, .NET, and database management. <br>
+- Passionate about solving complex problems through code and always eager to learn new technologies and tools. <br>
 - ⚡ In my free time, I enjoy working towards environmental conservation.<br><br>
 
 <p>You can reach me at <strong><a href="mailto:mariam.diab@ejust.edu.eg" style="color: blue;">mariam.diab@ejust.edu.eg</a></strong></p>
