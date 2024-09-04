@@ -9,7 +9,7 @@
 <h2 align="center">Welcome!</h2>
 
 <h3>👩‍💻 About Me</h3>
-- Proficient in backend development, with experience in Python, Django, .NET, and database management. <br>
+- Experienced in backend development, with hands-on knowledge in Python, Django, .NET, and database management. <br>
 - Passionate about solving complex problems through code and always eager to learn new technologies and tools. <br>
 - ⚡ In my free time, I enjoy working towards environmental conservation.<br><br>
 
